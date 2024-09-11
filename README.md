@@ -1,1 +1,1 @@
-# QrCodeMaker by (NTG18)[https://github.com/NTG18]
+# QrCodeMaker by [NTG18](https://github.com/NTG18)
