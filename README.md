@@ -6,7 +6,7 @@ QRCodeMaker is a simple program who allows you to make QrCode of internet links 
 
 ## How to install ?
 
-To install it you need to go to the releases and download the lastet version.
+To install it you need to go to the [releases](https://github.com/NTG18/QrCodeMaker/releases) and download the lastet version.
 
 ## I have issues with the program
 
