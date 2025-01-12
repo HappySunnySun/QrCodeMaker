@@ -1,15 +1,15 @@
-# QrCodeMaker by [HappySunnySun](https://github.com/NTG18)
+# QrCodeMaker par [HappySunnySun](https://github.com/HappySunnySun)
 
-## What is QrCodeMaker ?
+## Qu'est ce que QrCodeMaker
 
-QRCodeMaker is a simple program who allows you to make QrCode of internet links easily
+QrCodeMaker est un programme simple vous permettant de créer des QrCode sous forme d'image
 
-## How to install ?
+## Comment l'installer ?
 
-To install it you need to go to the [releases](https://github.com/NTG18/QrCodeMaker/releases) and download the lastet version.
+Pour télécharger le programme allez dans [releases](https://github.com/NTG18/HappySunnySun/releases) et téléchargez la dernnière version, puis lancez le .exe
 
-## I have issues with the program
+## J'ai un bug avec le programme
 
-If you have issues you can create one topic [here](https://github.com/NTG18/QrCodeMaker/issues) **Be sure your issue was not already noticed before by someone**
+Si vous avez un bug avec le programme signalez le [ici](https://github.com/HappySunnySun/QrCodeMaker/issues) **Soyez sur que votre bug n'a pas déjà été signalé par un autre utilisateur**
 
-Thanks for using QrCodeMaker !
+Merci d'utiliser QrCodeMaker ! ❤️
