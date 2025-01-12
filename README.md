@@ -1,4 +1,4 @@
-# QrCodeMaker by [NTG18](https://github.com/NTG18)
+# QrCodeMaker by [HappySunnySun](https://github.com/NTG18)
 
 ## What is QrCodeMaker ?
 
